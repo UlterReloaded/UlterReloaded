@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @UlterReloaded
+- Highschool senior learning to code in Python
+- Currently interested in web API based utils, open source software and PS2/Xbox360 software
+- Reach me in Discord at jakers#8984
